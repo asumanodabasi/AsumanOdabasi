@@ -21,7 +21,7 @@
 
 ---
 ### Latest Blog Posts 📰
-- [☁️ Bulut Bilişime Giriş: Temeller, Avantajlar ve Gerçek Bir CI/CD Deneyimi](https://medium.com/@asumanodabasi1/%EF%B8%8F-bulut-bili%C5%9Fime-giri%C5%9F-temeller-avantajlar-ve-ger%C3%A7ek-bir-ci-cd-deneyimi-044657a270a9)
+- [☁️ Introduction to Cloud Computing: Fundamentals, Developments, and a Real CI/CD Experience](https://medium.com/@asumanodabasi1/%EF%B8%8F-bulut-bili%C5%9Fime-giri%C5%9F-temeller-avantajlar-ve-ger%C3%A7ek-bir-ci-cd-deneyimi-044657a270a9)
 - [🧠🧮 Solving Shift-Invariant Matrix Problems Using Modular Arithmetic](https://medium.com/@asumanodabasi1/solving-shift-invariant-matrix-problems-using-modular-arithmetic-3d5c2a5a9bde)
 <!-- BLOG-POST-LIST:START -->
 ### 🎨 Frontend
