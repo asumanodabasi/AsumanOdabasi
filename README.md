@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-🎓 Computer Engineer master student passionate about building modern, user-focused applications  
+🎓 Computer Engineering master student passionate about building modern, user-focused applications  
 💻 Experienced in **Frontend & Backend development**  
 🚀 Interested in **Web, Data Analyze,CI/CD Development & AI-supported systems**  
 📚 Always learning and improving my technical skills  
