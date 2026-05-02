@@ -31,7 +31,7 @@
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,php,mysql,java,cs,py" />
+  <img src="https://skillicons.dev/icons?i=dotnet,php,mysql,ps,java,cs,py" />
 </p>
 
 ### 🧰 Tools & Platforms
