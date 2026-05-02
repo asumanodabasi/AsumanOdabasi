@@ -23,17 +23,17 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angukar,dotnetmvc,sass,reactnative" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,mvc,sass,reactnative" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,php,mysql,java,cs,py" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress,powerbi,cloude,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress,docker,kubernetes" />
 </p>
 
 ---
